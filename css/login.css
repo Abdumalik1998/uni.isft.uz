@@ -1,0 +1,49 @@
+*
+{
+	font-family: Arial;
+}
+#header
+{
+	text-align: center;
+	background-color: #007bff;
+	color:white;
+	padding:30px;
+}
+.container
+{
+	padding:0 !important;
+	margin:0 !important;
+}
+body
+{
+	margin:0;
+	padding:0;
+}
+.content 
+{
+	text-align: center;
+	padding:20px;
+	min-height: 400px;
+}
+.bgcolor-4
+{
+	background-color: white;
+}
+.footer
+{
+	height:100px;
+	background-color: #333438;
+	
+}
+#submit
+{
+	padding:10px;
+	background-color: #007bff;
+	margin-top:40px;
+	width:20%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	color:white;
+	cursor:pointer;
+}
